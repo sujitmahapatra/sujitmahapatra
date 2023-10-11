@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm MR. SUJIT</h1>
 <h3 align="center">A passionate Web2 & Web3 Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitmahapatra&label=Profile%20views&color=0e75b6&style=flat" alt="sujitmahapatra" /> </p>
 
 - 🔭 I’m currently working on **Web2 , Web3 & UI/UX Design**
